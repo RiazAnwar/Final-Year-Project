@@ -182,7 +182,7 @@
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow:  none 8px 16px none rgba(0,0,0,0.2);
     z-index: 1;
     
 }
@@ -854,6 +854,11 @@
     width: 150px;
     background-color: cornsilk;
 }
+.btnappointmentclear {
+    height: 35px;
+    width: 100px;
+    background-color: cornsilk;
+}
 /*
 .appointmentbody {
     height: auto;
@@ -875,7 +880,12 @@
 
 /* ***************************Appointment form *********END**************************/
 
-
+.tblAppointmentRecordDesign {
+    border-top: none;
+    /*padding: 5px;*/
+    padding: 50px 50px 100px 50px;
+    background-color: aliceblue;
+}
 
 
 .footer {

@@ -15,8 +15,10 @@
        <a href="DrRegisterByAdmin.aspx">DOCTOR REGISTRATION</a>
         <br />
         <br />
-        <a href="Appointments.aspx">PATIENTAPPOINTMENTS</a>
-
+        <a href="Appointments.aspx">PATIENT APPOINTMENTS</a>
+        <br />
+       <br />
+        <a href="AppointmentRecord.aspx">APPOINTMENT's RECORD</a>
        
     </div>
 </asp:Content>

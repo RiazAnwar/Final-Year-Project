@@ -12,8 +12,8 @@
   
      <br />
    <br />
-    <asp:HyperLink runat="server" NavigateUrl="~/doctorsignup.aspx" >DOCTOR SIGNUP</asp:HyperLink>
-    
+   <%-- <asp:HyperLink runat="server" NavigateUrl="~/doctorsignup.aspx" >DOCTOR SIGNUP</asp:HyperLink>
+    --%>
 
 </div>
 

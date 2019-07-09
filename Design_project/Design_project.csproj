@@ -74,6 +74,7 @@
     <Content Include="Admin.aspx" />
     <Content Include="ALLERGY AND CLINICAL IMMUNOLOGY.aspx" />
     <Content Include="Alreadyexist_Patient.aspx" />
+    <Content Include="AppointmentRecord.aspx" />
     <Content Include="Appointments.aspx" />
     <Content Include="Billing.aspx" />
     <Content Include="Blood Donation.aspx" />
@@ -237,6 +238,13 @@
     </Compile>
     <Compile Include="Alreadyexist_Patient.aspx.designer.cs">
       <DependentUpon>Alreadyexist_Patient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AppointmentRecord.aspx.cs">
+      <DependentUpon>AppointmentRecord.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AppointmentRecord.aspx.designer.cs">
+      <DependentUpon>AppointmentRecord.aspx</DependentUpon>
     </Compile>
     <Compile Include="Appointments.aspx.cs">
       <DependentUpon>Appointments.aspx</DependentUpon>
